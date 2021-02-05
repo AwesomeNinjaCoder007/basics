@@ -1,5 +1,4 @@
 This is a file 
 
 this is a new line added in master branch
-this is a new line in a new branch
-commiting to main branch
+Merging pull request from branch 2
